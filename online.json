@@ -61,23 +61,27 @@
   	}
   ],
 
-  "adsCollectionEnable": "false",
+  "adsCollectionEnable": "true",
   "adsCollection": [
     {
-      "linkUrl": "https://goo.gl/abHMFy",
-      "photoUrl": "https://lh3.googleusercontent.com/gyQDawrDTq9kbT5ugcvQPj8Tnh8LYGPfP6NsN0z0fUpzNDrNZYFTQMXYoE6DKNKCEms=w300",
-      "text": "Makeup Camera 1"
-    },
-    {
-      "linkUrl": "https://goo.gl/abHMFy",
-      "photoUrl": "https://lh3.googleusercontent.com/gyQDawrDTq9kbT5ugcvQPj8Tnh8LYGPfP6NsN0z0fUpzNDrNZYFTQMXYoE6DKNKCEms=w300",
-      "text": "Makeup Camera 2"
-    },
-    {
-      "linkUrl": "https://goo.gl/abHMFy",
-      "photoUrl": "https://lh3.googleusercontent.com/gyQDawrDTq9kbT5ugcvQPj8Tnh8LYGPfP6NsN0z0fUpzNDrNZYFTQMXYoE6DKNKCEms=w300",
-      "text": "Makeup Camera 3"
+	
+	"linkUrl": "market://details?id=rainbow.filter.effect.app",
+      "photoUrl": "https://raw.githubusercontent.com/oldgame99/assets/master/promotion/res/rainbow.filter.effect.app.webp",
+      "text": "Rainbow Filter"
+    },{
+      "linkUrl": "market://details?id=blush.kawaii.faceapp.anime.stickers",
+      "photoUrl": "https://raw.githubusercontent.com/oldgame99/assets/master/promotion/res/blush.kawaii.faceapp.anime.stickers.webp",
+      "text": "Blush: Red Cheeks"
+    },{
+      "linkUrl": "market://details?id=kirakira.sparkle.effects.glitter.overlay.photo",
+      "photoUrl": "https://raw.githubusercontent.com/oldgame99/assets/master/promotion/res/kirakira.sparkle.effects.glitter.overlay.photo.webp",
+      "text": "Sparkle Effects"
+    },{
+      "linkUrl": "market://details?id=magic.superpowers.movies_fx.special.effects.makeup",
+      "photoUrl": "https://raw.githubusercontent.com/oldgame99/assets/master/promotion/res/magic.superpowers.movies_fx.special.effects.makeup.webp",
+      "text": "Super Powers"
     }
+    
   ],
   "showAdLabel":"true",
 
