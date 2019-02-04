@@ -23,12 +23,7 @@
   },
 
   "promotion": [
-  	{
-  		"title":"Minni Mouse Photo Editor",
-  		"subTitle":"Sponsored",
-  		"photo":"https://raw.githubusercontent.com/oldgame99/assets/master/promotion/res/r003MinniMousePhotoEditor.png",
-  		"key":"f015"
-  	},
+  	
   	{
   		"title":"Fire on Photo",
   		"subTitle":"Filter",
