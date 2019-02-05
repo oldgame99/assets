@@ -323,14 +323,7 @@
 
   "resFrame": [
    
-    {
-      "id": "r002",
-      "name": "Happy_Birthday",
-      "link": "https://raw.githubusercontent.com/oldgame99/assets/master/res/frame/Happy_Birthday/",
-      "price": "0",
-      "size": "24",
-      "color": "#FFFFFF"
-    },
+    
     {
       "id": "r003",
       "name": "Mothers_Day",
@@ -345,14 +338,6 @@
       "link": "https://raw.githubusercontent.com/oldgame99/assets/master/res/frame/Summer_vacation/",
       "price": "0",
       "size": "24",
-      "color": "#FFFFFF"
-    },
-    {
-      "id": "r005",
-      "name": "Easter",
-      "link": "https://raw.githubusercontent.com/oldgame99/assets/master/res/frame/Easter/",
-      "price": "0",
-      "size": "20",
       "color": "#FFFFFF"
     }
   ],
