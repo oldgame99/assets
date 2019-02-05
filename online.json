@@ -196,14 +196,7 @@
       "size": "8",
       "color": "#FFFFFF"
     },
-    {
-      "id": "p008",
-      "name": "Christmas",
-      "link": "https://raw.githubusercontent.com/oldgame99/assets/master/res/pattern/Christmas/",
-      "price": "0",
-      "size": "8",
-      "color": "#FFFFFF"
-    },
+    
     {
       "id": "p009",
       "name": "Cool_Summer",
@@ -281,7 +274,7 @@
   "resFilter": [
     {
       "id": "f001",
-      "name": "Christmas",
+      "name": "light",
       "link": "https://raw.githubusercontent.com/oldgame99/assets/master/res/filter/Christmas/",
       "price": "0",
       "size": "8",
@@ -404,13 +397,7 @@
       "price": "0",
       "size": "24"
     },
-    {
-      "id": "s009",
-      "name": "Birthday_party",
-      "link": "https://raw.githubusercontent.com/oldgame99/assets/master/res/sticker/Birthday_party/",
-      "price": "0",
-      "size": "30"
-    },
+   
     {
       "id": "s010",
       "name": "Black",
@@ -426,14 +413,7 @@
       "size": "24",
       "color": "#FFFFFF"
     },
-    {
-      "id": "s012",
-      "name": "Happy_new_year",
-      "link": "https://raw.githubusercontent.com/oldgame99/assets/master/res/sticker/Happy_new_year/",
-      "price": "0",
-      "size": "20",
-      "color": "#FFFFFF"
-    },
+  
     {
       "id": "s013",
       "name": "Sweet_dream",
@@ -489,22 +469,6 @@
       "price": "0",
       "size": "40",
       "color": "#40CAEE"
-    },
-    {
-      "id": "s020",
-      "name": "Xmas",
-      "link": "https://raw.githubusercontent.com/oldgame99/assets/master/res/sticker/Xmas/",
-      "price": "0",
-      "size": "28",
-      "color": "#FFFFFF"
-    },
-    {
-      "id": "s021",
-      "name": "Valentine_day",
-      "link": "https://raw.githubusercontent.com/oldgame99/assets/master/res/sticker/Valentine_day/",
-      "price": "0",
-      "size": "21",
-      "color": "#FFFFFF"
     },
     {
       "id": "s022",
