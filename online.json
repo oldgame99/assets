@@ -359,6 +359,14 @@
       "size": "53",
       "color": "#FFFFFF"
     }
+  ,{
+      "id": "s025",
+      "name": "Snappy",
+      "link": "https://raw.githubusercontent.com/oldgame99/assets/master/res/sticker/Snappy/",
+      "price": "0",
+      "size": "80",
+      "color": "#FFFFFF"
+    }
   ,
     {
       "id": "s001",
