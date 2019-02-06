@@ -478,5 +478,16 @@
       "size": "21",
       "color": "#FFFFFF"
     }
+	
+	,
+    {
+      "id": "s022",
+      "name": "Cat_Face",
+      "link": "https://raw.githubusercontent.com/oldgame99/assets/master/res/sticker/Cat_Face/",
+      "price": "0",
+      "size": "43",
+      "color": "#FFFFFF"
+    }
+	
   ]
 }
