@@ -341,6 +341,17 @@
       "color": "#FFFFFF"
     }
   ,
+  
+   {
+      "id": "s023",
+      "name": "Crowns",
+      "link": "https://raw.githubusercontent.com/oldgame99/assets/master/res/sticker/Crowns/",
+      "price": "0",
+      "size": "79",
+      "color": "#FFFFFF"
+    }
+  ,
+  
     {
       "id": "s001",
       "name": "Travel",
