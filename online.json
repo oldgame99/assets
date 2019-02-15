@@ -260,14 +260,7 @@
   ],
 
   "resFilter": [
-    {
-      "id": "f001",
-      "name": "Sparkles",
-      "link": "https://raw.githubusercontent.com/oldgame99/assets/master/res/filter/Christmas/",
-      "price": "0",
-      "size": "8",
-      "color": "#FFFFFF"
-    },
+   
     {
       "id": "f002",
       "name": "Glitter",
