@@ -19,7 +19,7 @@
   		"key":"f004"	
   	},
   	{
-  		"title":"Sparkle",
+  		"title":"Christmas",
   		"subTitle":"Filter",
   		"photo":"https://raw.githubusercontent.com/oldgame99/assets/master/res/filter/Christmas/cover",
   		"key":"f001"	
@@ -262,7 +262,7 @@
   "resFilter": [
     {
       "id": "f001",
-      "name": "Sparkle",
+      "name": "Christmas",
       "link": "https://raw.githubusercontent.com/oldgame99/assets/master/res/filter/Christmas/",
       "price": "0",
       "size": "8",
