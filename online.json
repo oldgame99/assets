@@ -17,16 +17,16 @@
     "iconUrl": "https://lh3.googleusercontent.com/DOvW4QVPUASTMlkj5TguE56RR_KU9czP84quHMcfOg4S5cPKdi9JYpbiKuQdfAmvL2I=s180-rw",
     "link": "market://details?id=com.goblin.sword",
     "pubName": "DRACARTS",
-    "description": "Download & join over 2 Million users of Goblin Special Effects..."
+    "description": "Download & join over 2 Millions users of Goblin Special Effects..."
   },
   
   "promotion": [
   	
   	{
-  		"title":"Vacation",
-  		"subTitle":"Sticker",
-  		"photo":"https://raw.githubusercontent.com/oldgame99/assets/master/res/sticker/Vacation",
-  		"key":"s003"	
+  		"title":"Fire on Photo",
+  		"subTitle":"Filter",
+  		"photo":"https://raw.githubusercontent.com/oldgame99/assets/master/res/filter/Fire/cover",
+  		"key":"f004"	
   	},
   
   	{
@@ -36,16 +36,16 @@
   		"key":"s011"	
   	},
   	{
-  		"title":"Sweet dream",
-  		"subTitle":"Sticker",
-  		"photo":"https://raw.githubusercontent.com/oldgame99/assets/master/res/sticker/Sweet_dream",
-  		"key":"s013"	
+  		"title":"Star on Sky",
+  		"subTitle":"Filter",
+  		"photo":"https://raw.githubusercontent.com/oldgame99/assets/master/res/filter/Star/cover",
+  		"key":"f005"	
   	},
   	{
-  		"title":"Beautiful girl",
+  		"title":"Black art",
   		"subTitle":"Sticker",
-  		"photo":"https://raw.githubusercontent.com/oldgame99/assets/master/res/sticker/Beautiful_girl",
-  		"key":"s008"	
+  		"photo":"https://raw.githubusercontent.com/oldgame99/assets/master/res/sticker/Black/cover",
+  		"key":"s010"	
   	}
   ],
 
