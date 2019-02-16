@@ -12,7 +12,7 @@
   "homePageAppAdObject": {
     "appId": "com.goblin.sword",
     "appName": "Goblin Special Effects",
-    "appUrl": "https://play.google.com/store/apps/details?id=com.goblin.sword",
+    "appUrl": "market://details?id=com.goblin.sword",
     "featureUrl": "https://raw.githubusercontent.com/oldgame99/assets/master/promotion/res/ads_cover_heart_face_camera.png",
     "iconUrl": "https://lh3.googleusercontent.com/DOvW4QVPUASTMlkj5TguE56RR_KU9czP84quHMcfOg4S5cPKdi9JYpbiKuQdfAmvL2I=s180-rw",
     "link": "http://bit.ly/com_goblin_sword",
