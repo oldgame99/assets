@@ -17,16 +17,16 @@
     "iconUrl": "https://lh3.googleusercontent.com/DOvW4QVPUASTMlkj5TguE56RR_KU9czP84quHMcfOg4S5cPKdi9JYpbiKuQdfAmvL2I=s180-rw",
     "link": "market://details?id=com.goblin.sword",
     "pubName": "DRACARTS",
-    "description": "Download & join over 2 Millions users of Goblin Special Effects..."
+    "description": "Download & join over 2 Million users of Goblin Special Effects..."
   },
   
   "promotion": [
   	
   	{
-  		"title":"Fire on Photo",
-  		"subTitle":"Filter",
-  		"photo":"https://raw.githubusercontent.com/oldgame99/assets/master/res/filter/Fire/cover",
-  		"key":"f004"	
+  		"title":"Vacation",
+  		"subTitle":"Sticker",
+  		"photo":"https://raw.githubusercontent.com/oldgame99/assets/master/res/sticker/Vacation/cover",
+  		"key":"s003"	
   	},
   
   	{
@@ -36,16 +36,16 @@
   		"key":"s011"	
   	},
   	{
-  		"title":"Star on Sky",
-  		"subTitle":"Filter",
-  		"photo":"https://raw.githubusercontent.com/oldgame99/assets/master/res/filter/Star/cover",
-  		"key":"f005"	
+  		"title":"Sweet Dream",
+  		"subTitle":"Sticker",
+  		"photo":"https://raw.githubusercontent.com/oldgame99/assets/master/res/sticker/Sweet_dream/cover",
+  		"key":"s013"	
   	},
   	{
-  		"title":"Black art",
+  		"title":"Beautiful Girl",
   		"subTitle":"Sticker",
-  		"photo":"https://raw.githubusercontent.com/oldgame99/assets/master/res/sticker/Black/cover",
-  		"key":"s010"	
+  		"photo":"https://raw.githubusercontent.com/oldgame99/assets/master/res/sticker/Beautiful_girl/cover",
+  		"key":"s008"	
   	}
   ],
 
@@ -53,21 +53,21 @@
   "adsCollection": [
     {
 	
-	"linkUrl": "market://details?id=rainbow.filter.effect.app",
-      "photoUrl": "https://raw.githubusercontent.com/oldgame99/assets/master/promotion/res/rainbow.filter.effect.app.webp",
-      "text": "Rainbow Filter"
+	"linkUrl": "",
+      "photoUrl": "",
+      "text": ""
     },{
-      "linkUrl": "market://details?id=blush.kawaii.faceapp.anime.stickers",
-      "photoUrl": "https://raw.githubusercontent.com/oldgame99/assets/master/promotion/res/blush.kawaii.faceapp.anime.stickers.webp",
-      "text": "Blush: Red Cheeks"
+      "linkUrl": "",
+      "photoUrl": "",
+      "text": ""
     },{
-      "linkUrl": "market://details?id=kirakira.sparkle.effects.glitter.overlay.photo",
-      "photoUrl": "https://raw.githubusercontent.com/oldgame99/assets/master/promotion/res/kirakira.sparkle.effects.glitter.overlay.photo.webp",
-      "text": "Sparkle Effects"
+      "linkUrl": "",
+      "photoUrl": "",
+      "text": ""
     },{
-      "linkUrl": "market://details?id=magic.superpowers.movies_fx.special.effects.makeup",
-      "photoUrl": "https://raw.githubusercontent.com/oldgame99/assets/master/promotion/res/magic.superpowers.movies_fx.special.effects.makeup.webp",
-      "text": "Super Powers"
+      "linkUrl": "",
+      "photoUrl": "",
+      "text": ""
     }
     
   ],
