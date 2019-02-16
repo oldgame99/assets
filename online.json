@@ -386,13 +386,6 @@
       "size": "20"
     },
     {
-      "id": "s004",
-      "name": "Winter_label",
-      "link": "https://raw.githubusercontent.com/oldgame99/assets/master/res/sticker/Winter_label/",
-      "price": "0",
-      "size": "24"
-    },
-    {
       "id": "s005",
       "name": "Alphabet",
       "link": "https://raw.githubusercontent.com/oldgame99/assets/master/res/sticker/Alphabet/",
@@ -484,14 +477,6 @@
       "price": "0",
       "size": "21",
       "color": "#FFFFFF"
-    },
-    {
-      "id": "s019",
-      "name": "Black_white_winter",
-      "link": "https://raw.githubusercontent.com/oldgame99/assets/master/res/sticker/Black_white_winter/",
-      "price": "0",
-      "size": "40",
-      "color": "#40CAEE"
     },
     {
       "id": "s022",
