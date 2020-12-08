@@ -10,14 +10,14 @@
   "homePageAdType": "admob",
   
   "homePageAppAdObject": {
-    "appId": "com.goblin.sword",
-    "appName": "Goblin Special Effects",
-    "appUrl": "market://details?id=com.goblin.sword",
-    "featureUrl": "https://raw.githubusercontent.com/oldgame99/assets/master/promotion/res/ads_cover_heart_face_camera.png",
-    "iconUrl": "https://lh3.googleusercontent.com/DOvW4QVPUASTMlkj5TguE56RR_KU9czP84quHMcfOg4S5cPKdi9JYpbiKuQdfAmvL2I=s180-rw",
-    "link": "market://details?id=com.goblin.sword",
-    "pubName": "DRACARTS",
-    "description": "Download & join over 2 Million users of Goblin Special Effects..."
+    "appId": "",
+    "appName": "",
+    "appUrl": "",
+    "featureUrl": "",
+    "iconUrl": "",
+    "link": "",
+    "pubName": "",
+    "description": ""
   },
   
   "promotion": [
